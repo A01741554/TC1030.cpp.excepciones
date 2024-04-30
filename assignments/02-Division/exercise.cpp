@@ -12,7 +12,7 @@ int main()
     z = x / y;
 
     std::cout << "El valor de z es: " << z << "\n";
-  } catch (const char* msg) {
+  } catch (const char* msg) { //aunque estoy mandando un apuntador a un tipo char, el compilador lo convierte a un tipo std::string
     std::cerr << msg << "\n";
   }
   return 0;

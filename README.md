@@ -8,7 +8,7 @@ cd <assignments/Proyecto>
 Ej.- cd assignments/00-HelloWorld
 
 ```
-- 00-VectorSEx (```cd assignments/00-VectorSEx```)
+- 00-VectorSEx (```cd assigSEx`nments/00-Vector``)
 - 01-VectorCEx (```cd assignments/01-VectorCEx```)
 - 02-Division (```cd assignments/02-Division```)
 - 03-DivisionCF (```cd assignments/03-DivisionCF```)
